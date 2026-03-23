@@ -111,7 +111,9 @@ I build modern websites, mobile apps, and AI‑assisted solutions with clean des
 ## 📫 Contact Me
 
 📧 **Email:** Selvaraj.Thyagarajan@triosstudent.com  
-🐙 **GitHub:** https://github.com/MovingSpots  
+🐙 **GitHub:** https://github.com/MovingSpots       
+🐙 **WebPage:** https://MovingSpots.github.io       
+
 
 ---
 
